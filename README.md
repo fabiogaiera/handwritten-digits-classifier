@@ -1,1 +1,1 @@
-# scenes-classifier-scikit-learn
+# Hand Digits Written Classifier with scikit-learn
