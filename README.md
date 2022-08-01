@@ -1,1 +1,1 @@
-# Hand Digits Written Classifier with scikit-learn
+# Handwritten Digits Classifier with scikit-learn
