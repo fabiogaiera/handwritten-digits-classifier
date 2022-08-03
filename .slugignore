@@ -1,0 +1,10 @@
+.git/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+dataset/
+notebook/
+test samples/
+.gitignore
+LICENSE
+README.md
